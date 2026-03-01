@@ -16,6 +16,7 @@
 
 - Move the paddle horizontally using the mouse.
 - Keep the ball in play to achieve a higher score.
+- Click anywhere after the game ends to restart.
 
 ---
 
@@ -23,12 +24,6 @@
 
 Open `index.html` in any modern browser.  
 No installation or dependencies required.
-
----
-
-## Credits
-
-Designed and developed by Basil.
 
 ---
 
