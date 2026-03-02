@@ -2,6 +2,9 @@
 
 **Paddle Bounce** is a minimalist arcade game built around a single goal: keep the ball in play using a responsive paddle. The game focuses on timing, precision, and maintaining control as the ball speeds up.
 
+**Play the live demo:**  
+https://vgorin.github.io/paddle-bounce/
+
 ---
 
 ## Gameplay
