@@ -5,6 +5,9 @@
 **Play the live demo:**  
 https://vgorin.github.io/paddle-bounce/
 
+**Play via Telegram:**  
+https://t.me/paddlebouncebot
+
 ---
 
 ## Gameplay
